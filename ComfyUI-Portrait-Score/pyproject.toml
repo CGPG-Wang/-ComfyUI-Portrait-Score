@@ -8,7 +8,7 @@ dependencies = ["opencv-python", "numpy", "torch"]
 license = { text = "MIT" }
 
 [project.urls]
-Repository = "https://github.com/<YOUR_GITHUB_USERNAME>/ComfyUI-Portrait-Score"
+Repository = "https://github.com/CGPG-Wang/-ComfyUI-Portrait-Score.git"
 
 [tool.comfy]
 DisplayName = "☃️Portrait_Score"
