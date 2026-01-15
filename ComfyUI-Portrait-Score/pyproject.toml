@@ -1,0 +1,18 @@
+# pyproject.toml
+[project]
+name = "ComfyUI-Portrait-Score"
+description = "Portrait quality scoring node for ComfyUI."
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["opencv-python", "numpy", "torch"]
+license = { text = "MIT" }
+
+[project.urls]
+Repository = "https://github.com/<YOUR_GITHUB_USERNAME>/ComfyUI-Portrait-Score"
+
+[tool.comfy]
+DisplayName = "☃️Portrait_Score"
+
+[comfy_node]
+display_name = "☃️Portrait_Score"
+description = "Portrait quality scoring node for ComfyUI."
