@@ -41,12 +41,13 @@ The node produces three outputs:
 🧪 Example Results
 ❌ Low-Quality Portrait (Rejected)
 Blurry, low-focus portrait correctly classified as Reject:
-[图片]
+<img width="2918" height="1338" alt="l" src="https://github.com/user-attachments/assets/2022d70e-1125-4ac6-bf62-7697f54e6926" />
+
 
 ---
 ✅ High-Quality Portrait (Excellent)
 Sharp, well-lit portrait classified as Excellent and suitable for production use:
-[图片]
+<img width="2902" height="1330" alt="h" src="https://github.com/user-attachments/assets/116bed5f-6f63-4e50-b0eb-1d424b2bc77f" />
 
 ---
 🧩 Typical Use Cases
